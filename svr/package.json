@@ -1,0 +1,22 @@
+{
+  "name": "chorescore-backend",
+  "version": "1.0.0",
+  "description": "A backend server for chorescore",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ryanmilvenan/chorescore.git"
+  },
+  "author": "Ryan Milvenan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryanmilvenan/chorescore/issues"
+  },
+  "homepage": "https://github.com/ryanmilvenan/chorescore#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
